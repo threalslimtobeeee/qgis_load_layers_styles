@@ -1,0 +1,1 @@
+This is an example algorithm that loads layer from files and styles them
